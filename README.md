@@ -24,7 +24,6 @@ This project's purpose is to track the locations of each active public transport
  - Custom colors markers for commuters with color blind deficiency
  ## License 
  **MIT License**
- MIT License
 
 Copyright (c) 2021 Justin Arteaga
 
